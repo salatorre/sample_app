@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<<<<<<< HEAD
+<head>
+  <title><%= title %></title>
+  <%= csrf_meta_tag %>
+</head>
+<body>
+<%= yield %>
+</body>
+=======
+  <head>
+    <title><%= @title %></title>
+    <%= csrf_meta_tag %>
+  </head>
+  <body>
+    <%= yield %>
+  </body>
+>>>>>>> 01b29de70bd3c35058888433604de10e81a92291
+</html>

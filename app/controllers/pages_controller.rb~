@@ -1,0 +1,22 @@
+class PagesController < ApplicationController
+<<<<<<< HEAD
+=======
+
+>>>>>>> 01b29de70bd3c35058888433604de10e81a92291
+  def home
+    @title = "Home"
+  end
+
+  def contact
+    @title = "Contact"
+  end
+
+  def about
+    @title = "About"
+  end
+
+  def help
+    @title = "Help"
+  end
+
+end

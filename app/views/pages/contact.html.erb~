@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<h1>Contact</h1>
+<p>Contact Ruby on Rails Tutorial about the sample app at the <a href="http://railstutorial.org/feedback">feedback page</a>.
+</p>
+=======
+    <h1>Contact</h1>
+    <p>Contact Ruby on Rails Tutorial about the sample app at the <a href="http://railstutorial.org/feedback">feedback page</a>
+    </p>
+>>>>>>> 01b29de70bd3c35058888433604de10e81a92291

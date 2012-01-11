@@ -1,0 +1,7 @@
+class ApplicationController < ActionController::Base
+<<<<<<< HEAD
+=======
+  helper :all
+>>>>>>> 01b29de70bd3c35058888433604de10e81a92291
+  protect_from_forgery
+end

@@ -1,5 +1,11 @@
 # Ruby on Rails Tutorial: sample application
 
 This is the sample application for
+<<<<<<< HEAD
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/)
+
+=======
+[*Ruby on Rails Tutorial: Learn Rail by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com)
+>>>>>>> 01b29de70bd3c35058888433604de10e81a92291
